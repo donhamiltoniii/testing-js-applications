@@ -1,4 +1,4 @@
-const Cart = require('./Cart.js');
+const Cart = require('./cart.js');
 
 test('addToCart function can add an item to the cart', () => {
   const testCart = new Cart();
